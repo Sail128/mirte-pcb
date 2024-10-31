@@ -1010,7 +1010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92aae99a-ba1b-462b-9735-a5bc98073264")
-		(property "Reference" "J8"
+		(property "Reference" "J10"
 			(at 132.08 72.39 0)
 			(effects
 				(font
@@ -1097,7 +1097,7 @@
 		(instances
 			(project "mirte-master"
 				(path "/19794465-0368-488c-958e-83b02754ebd6/75b0f62f-ad0e-4253-bb9a-0d4c3868edf5"
-					(reference "J8")
+					(reference "J10")
 					(unit 1)
 				)
 			)
